@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+# version 1.0.0
 import sys, os, shutil, getopt
 from xml.dom import minidom
 
